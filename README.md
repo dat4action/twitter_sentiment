@@ -20,7 +20,7 @@ The program will collect tweets using the Twitter API and analyze their sentimen
 The output of the sentiment analysis will include:
 
 A report with the percentage of tweets with positive, negative, and neutral sentiment, as well as the average star rating based on the sentiment.
-A word cloud visualization of the most frequent words used in the tweets. Also the text of the five more positive tweets and the five more negative.
+A word cloud visualization of the most frequent words used in the tweets. Also the text of the five most positive tweets and the five most negative ones.
 
 ### Examples
 Here are some example screenshots of the output:
@@ -33,6 +33,8 @@ Sentiment Report
 
 ![Sentiment Report](Report_Example.png)
 
+
+![5 most positive and 5 most negative tweets](Negative_Positive_5_tweets.png)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details
